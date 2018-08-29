@@ -13,11 +13,11 @@ A few things to keep in mind:
 The problem descriptions are not complete. We want you figure out what the
 problem is and build the solution you envision.
 
-#### Problems
+### Problems
 - [UI for Profile Component](/ui/README.md)
 - [Firebase Testing Harness](/firebase/README.md)
 
-#### How to Get Started
+### How to Get Started
 Please use this repo for all your work. Start by cloning the repo
 to your own account. Review the problems and do the work for the one
 you choose in the problem folder. Commit your code and any writeup in
