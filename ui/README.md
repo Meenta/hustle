@@ -38,23 +38,23 @@ will include usage documentation that tells other developers how to implement.
 
 AngularJs usage example:
 
-    1. install <script src="https://assets.meenta.io/profile/bundle.js"></script>
+    1. Reference the bundle in the header:
 
-    2. bootstrap using the following:
+      <script src="https://assets.meenta.io/profile/bundle.js"></script>
 
-    <script>
-			angular.element(document).ready(function () {
-				angular.bootstrap(document, [
-					'meenta.search',
-					'meenta.profile',
-					'meenta.quote'
-				]);
-			});
-		</script>
+    2. Bootstrap using the following:
+
+      <script>
+        angular.element(document).ready(function () {
+          angular.bootstrap(document, ['meenta.profile', ...]);
+        });
+      </script>
 
     3. Add the following to the UI.
 
-    <div title="Welcome" meenta-profile></div>
+      <div title="Welcome" meenta-profile></div>
+      or
+      <div title="Start" meenta-profile></div>
 
 #### Note
 Loading two or more components each include the same framework or libraries can
