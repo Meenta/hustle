@@ -32,15 +32,29 @@ components that can be used in different context. This assumes that the componen
 will load it requirements in a single bundle and can be called from any UI. And
 will include usage documentation that tells other developers how to implement.
 
-AngularJs example:
-
-    <div title="Welcome" meenta-profile></div>
-    
-    - title (attr) - Let the use customize the anonymous link.
-
 - Code for UI component.
 - Update the Bootstrap Index.html to show the code.
 - Needs to be able to show both states: logged in and visitor.
+
+AngularJs usage example:
+
+    1. install <script src="https://assets.meenta.io/profile/bundle.js"></script>
+
+    2. bootstrap using the following:
+
+    <script>
+			angular.element(document).ready(function () {
+				angular.bootstrap(document, [
+					'meenta.search',
+					'meenta.profile',
+					'meenta.quote'
+				]);
+			});
+		</script>
+
+    3. Add the following to the UI.
+
+    <div title="Welcome" meenta-profile></div>
 
 #### Note
 Loading two or more components each include the same framework or libraries can
