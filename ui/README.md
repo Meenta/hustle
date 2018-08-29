@@ -35,6 +35,8 @@ will include usage documentation that tells other developers how to implement.
 AngularJs example:
 
     <div title="Welcome" meenta-profile></div>
+    
+    - title (attr) - Let the use customize the anonymous link.
 
 - Code for UI component.
 - Update the Bootstrap Index.html to show the code.
