@@ -21,9 +21,9 @@ Here are some mockups and screenshots.
 
 - [Basic Mockup](/assets/General-Mockup.png)
 - [Google Example](/assets/Google-Profile.png)
-- [Map](https://map.meenta.io) - [Map with Profile](assets/Map-Profile-Example.png)
-- [Search](https://meenta.io/search) - [Search with Profile](assets/Search-Profile-Example.png)
-- [Messenger](https://meenta.io/messenger)
+- [https://map.meenta.io](https://map.meenta.io) - [Map with Profile](assets/Map-Profile-Example.png)
+- [https://meenta.io/search](https://meenta.io/search) - [Search with Profile](assets/Search-Profile-Example.png)
+- [https://meenta.io/messenger](https://meenta.io/messenger)
 
 
 #### Deliverables
