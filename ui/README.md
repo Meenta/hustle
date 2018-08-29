@@ -35,6 +35,7 @@ will include usage documentation that tells other developers how to implement.
 - Code for UI component.
 - Update the Bootstrap Index.html to show the code.
 - Needs to be able to show both states: logged in and visitor.
+- Optional - Add in `Gulp` or `Webpack` config/tasks to build bundle to `/dist` folder.
 
 AngularJs usage example:
 
