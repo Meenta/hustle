@@ -19,10 +19,10 @@ all profile like activity out of the codebase and have it reside in this compone
 
 Here are some mockups and screenshots.
 
-- [Basic Mockup](/assets/General-Mockup.png)
-- [Google Example](/assets/Google-Profile.png)
-- [https://map.meenta.io](https://map.meenta.io) - [Map with Profile](assets/Map-Profile-Example.png)
-- [https://meenta.io/search](https://meenta.io/search) - [Search with Profile](assets/Search-Profile-Example.png)
+- [Balsamiq Mockup](/assets/General-Mockup.png)
+- [Gmail Header Example](/assets/Google-Profile.png)
+- [https://map.meenta.io](https://map.meenta.io) - Simple mockup - [Map with Profile](/assets/Map-Profile-Example.png)
+- [https://meenta.io/search](https://meenta.io/search) - Simple mockup - [Search with Profile](/assets/Search-Profile-Example.png)
 - [https://meenta.io/messenger](https://meenta.io/messenger)
 
 
@@ -32,8 +32,9 @@ components that can be used in different context. This assumes that the componen
 will load it requirements in a single bundle and can be called from any UI. And
 will include usage documentation that tells other developers how to implement.
 
-example:
-    Ng: <div title="Welcome" meenta-profile></div>
+AngularJs example:
+
+    <div title="Welcome" meenta-profile></div>
 
 - Code for UI component.
 - Update the Bootstrap Index.html to show the code.
