@@ -19,11 +19,11 @@ all profile like activity out of the codebase and have it reside in this compone
 
 Here are some mockups and screenshots.
 
-- ![Basic Mockup](assets/General-Mockup.png)
-- ![Google Example](assets/Google-Profile.png)
-- [Map](https://map.meenta.io) - ![Map with Profile](assets/Map-Profile-Example.png)
-- [Search](https://meenta.io/search) - ![Search with Profile](assets/Search-Profile-Example.png)
-- [messenger](https://meenta.io/messenger)
+- [Basic Mockup](assets/General-Mockup.png)
+- [Google Example](assets/Google-Profile.png)
+- [Map](https://map.meenta.io) - [Map with Profile](assets/Map-Profile-Example.png)
+- [Search](https://meenta.io/search) - [Search with Profile](assets/Search-Profile-Example.png)
+- [Messenger](https://meenta.io/messenger)
 
 
 #### Deliverables
