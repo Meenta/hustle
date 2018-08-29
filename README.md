@@ -26,4 +26,7 @@ a `RESULTS.md` file in the same folder.
 When you are done, let us know and we can schedule a time to talk.
 Remember perfection is the goal, we are looking for __vision__, __direction__ and __hustle__.
 
+Show your work, document issues or to-do items, and be ready
+to talk about your approach. 
+
 Thanks!
