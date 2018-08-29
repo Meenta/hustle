@@ -40,21 +40,21 @@ AngularJs usage example:
 
     1. Reference the bundle in the header:
 
-      <script src="https://assets.meenta.io/profile/bundle.js"></script>
+       <script src="https://assets.meenta.io/profile/bundle.js"></script>
 
     2. Bootstrap using the following:
 
-      <script>
-        angular.element(document).ready(function () {
-          angular.bootstrap(document, ['meenta.profile', ...]);
-        });
-      </script>
+       <script>
+         angular.element(document).ready(function () {
+           angular.bootstrap(document, ['meenta.profile', ...]);
+         });
+       </script>
 
     3. Add the following to the UI.
 
-      <div title="Welcome" meenta-profile></div>
-      or
-      <div title="Start" meenta-profile></div>
+       <div title="Welcome" meenta-profile></div>
+       or
+       <div title="Start" meenta-profile></div>
 
 #### Note
 Loading two or more components each include the same framework or libraries can
