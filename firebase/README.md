@@ -1,5 +1,5 @@
 # Firebase Cloud Function Tests
-This hustle test is more of a developer exercise then a test. Micro-Services,
+This hustle test is more of a developer exercise then a test. Micro-Services and 
 Serverless stacks are becoming more and more common. Google Firebase is on
 the most popular. Firbase (the company) was purchased by Google in 2014 and
 have been a growing component in their GCP (Google Cloud Product). Every few
