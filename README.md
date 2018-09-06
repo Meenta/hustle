@@ -15,8 +15,8 @@ The problem descriptions are not complete. We want you figure out what the
 problem is and build the solution you envision.
 
 ### Problems
-- [UI for Profile Component](/ui/README.md)
-- [Firebase Testing Harness](/firebase/README.md)
+- UI Problem - [UI for Profile Component](/ui/README.md)
+- Serverless Problem - [Setup a Firebase Function & Testing Harness](/firebase/README.md)
 
 ### How to Get Started
 Please use this repo for all your work. Start by cloning the repo
@@ -25,9 +25,8 @@ you choose in the problem folder. Commit your code and any write-up in
 a `RESULTS.md` file in the same folder.
 
 When you are done, let us know and we can schedule a time to talk.
-Remember perfection is the goal, we are looking for __vision__, __direction__ and __hustle__.
+Remember perfection is not the goal, we are looking for __vision__, __direction__ and __hustle__.
 
-Show your work, document issues or to-do items, and be ready
-to talk about your approach.
+Show your work, document issues or to-do items, and be ready to talk about your approach.
 
 Thanks!
