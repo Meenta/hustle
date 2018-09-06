@@ -15,8 +15,9 @@ The problem descriptions are not complete. We want you figure out what the
 problem is and build the solution you envision.
 
 ### Problems
-- [UI for Profile Component](/ui/README.md)
-- [Firebase Testing Harness](/firebase/README.md)
+- [UI for Profile Component (for Developer)](/ui/README.md)
+- [Firebase Testing Harness (for Developer)](/firebase/README.md)
+- [Search SPA (for Product Owner)](/product/README.md)
 
 ### How to Get Started
 Please use this repo for all your work. Start by cloning the repo
