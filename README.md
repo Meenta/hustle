@@ -5,7 +5,7 @@ the one you like the most. This is real work for features that are either in
 development or on our roadmap.
 
 A few things to keep in mind:
-- Perfect is not required.
+- Perfection is not required.
 - Use the internet to find what you need.
 - Ask us for help or feedback.
 - Do your own work.
@@ -21,7 +21,7 @@ problem is and build the solution you envision.
 ### How to Get Started
 Please use this repo for all your work. Start by cloning the repo
 to your own account. Review the problems and do the work for the one
-you choose in the problem folder. Commit your code and any writeup in
+you choose in the problem folder. Commit your code and any write-up in
 a `RESULTS.md` file in the same folder.
 
 When you are done, let us know and we can schedule a time to talk.
