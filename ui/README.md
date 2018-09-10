@@ -1,15 +1,16 @@
 # Front End Profile Component
-This hustle test a front end exercise for a component we need to implement across
-a number of our applications; map, search, messenger and UI.
+This hustle test is for a __front-end developer__. This is a front end exercise
+for a component we need to implement across a number of our applications; `map`,
+`search`, `messenger` and `UI`.
 
 #### Problem to Solve
-The task is to setup create an reusable component in either `Vue.js`, `React` or
-`AngularJs` that provides a UI component that manages state. When the component
+The task is to create a reusable component in either `Vue.js`, `React` or
+`AngularJs` that provides a web element/component that manages state. When the component
 is deployed in a UI environment, the component needs to be aware of the visitors
 `auth state`, via the Firebase Auth SDK. It needs to show a different HTML content
-depending on this state. When the user is unknown it needs to show a 'get Started'
+depending on this state. When the user is `unknown` it needs to show a 'Get Started'
 button that when clicked takes the user to either a registration page, or open
-a registration/login modal. When the user is known (already loggedin) the component
+a registration/login modal. When the user is `known` (already logged-in) the component
 needs to open a dropdown element that shows them options: My Account, List of Message
 etc.
 
@@ -19,18 +20,20 @@ all profile like activity out of the codebase and have it reside in this compone
 
 Here are some mockups and screenshots.
 
-- [Balsamiq Mockup](/assets/General-Mockup.png)
-- [Gmail Header Example](/assets/Google-Profile.png)
 - [https://map.meenta.io](https://map.meenta.io) - Simple mockup - [Map with Profile](/assets/Map-Profile-Example.png)
 - [https://meenta.io/search](https://meenta.io/search) - Simple mockup - [Search with Profile](/assets/Search-Profile-Example.png)
 - [https://meenta.io/messenger](https://meenta.io/messenger)
 
+### Resources
+- [Balsamiq Mockup](/assets/General-Mockup.png)
+- [Gmail Header Example](/assets/Google-Profile.png)
 
 #### Deliverables
-The objective of this test is to demonstrate an understanding of resuable web
-components that can be used in different context. This assumes that the component
-will load it requirements in a single bundle and can be called from any UI. And
-will include usage documentation that tells other developers how to implement.
+The objective of this test is to demonstrate an understanding of re-usable web
+components that can be used in different context and environments. This assumes
+that the component will load it requirements in a single bundle and can be called
+from any UI. And will include usage documentation that tells other developers
+how to implement.
 
 - Code for UI component.
 - Update the Bootstrap Index.html to show the code.
