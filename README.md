@@ -1,8 +1,7 @@
 # Meenta Hustle Tests
-Welcome to our hustle tests. This repo contains a growing number of standalone
-features and challenges that we ask people to review. Please feel free to choose
-the one you like the most. This is real work for features that are either in
-development or on our roadmap.
+Welcome to our hustle tests. This repo contains a growing number of stand-alone
+features and challenges. Please feel free to choose the one you like the most.
+This is real work for features that are either in development or on our roadmap.
 
 A few things to keep in mind:
 - Perfection is not required.
@@ -15,8 +14,8 @@ The problem descriptions are not complete. We want you figure out what the
 problem is and build the solution you envision.
 
 ### Problems
-- [UI for Profile Component (for Developer)](/ui/README.md)
-- [Firebase Testing Harness (for Developer)](/firebase/README.md)
+- [UI for Profile Component (for UI Developer)](/ui/README.md)
+- [Firebase Testing Harness (for Node Developer)](/firebase/README.md)
 - [Search SPA (for Product Owner)](/product/README.md)
 
 ### How to Get Started
